@@ -200,7 +200,7 @@ class _HomePageState extends State<HomePage> {
                 child: Column(
                   children: [
                     Text(
-                      '\$ 1,840.00',
+                      '1,840,000',
                       style: TextStyle(
                         color: Colors.black,
                         fontSize: 22,
